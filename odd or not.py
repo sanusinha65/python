@@ -1,4 +1,4 @@
-n= int(input("Enter Number "))  #user input
+n= int(input("Enter Number "))  #taking user input
 
 if n%2==0: #test condition 
     print("Not Odd")      #not odd = even
